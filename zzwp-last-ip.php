@@ -1,10 +1,11 @@
 <?php
 /*
   Plugin Name: Last user IP
+  Plugin URI:  http://zzapps.net
   Description: Logs last user IP and shows it in user table.
   Version: 1.0
-  Author: zudikas-zveris
-  Author URI: http://www.eturgelis.lt
+  Author: zudikas zveris
+  Author URI: http://zzapps.net
   License:  GPLv2
  */
 
