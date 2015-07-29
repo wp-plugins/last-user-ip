@@ -1,5 +1,6 @@
 === Last User IP ===
 Contributors: zudikas-zveris
+Donate link: http://zzapps.net
 Tags: user, last, IP, log
 Requires at least: 3.5
 Tested up to: 4.2.3
